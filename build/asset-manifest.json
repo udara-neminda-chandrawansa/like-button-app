@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32990a3e.css",
+    "main.js": "/static/js/main.40f4a3f6.js",
+    "static/js/787.7382e125.chunk.js": "/static/js/787.7382e125.chunk.js",
+    "static/media/udara.jpg": "/static/media/udara.8c521a8367ace50cdac7.jpg",
+    "index.html": "/index.html",
+    "main.32990a3e.css.map": "/static/css/main.32990a3e.css.map",
+    "main.40f4a3f6.js.map": "/static/js/main.40f4a3f6.js.map",
+    "787.7382e125.chunk.js.map": "/static/js/787.7382e125.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32990a3e.css",
+    "static/js/main.40f4a3f6.js"
+  ]
+}
